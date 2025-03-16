@@ -43,14 +43,4 @@ JavaScript → Game logic and interaction
 │── style.css       # Styling of the game
 │── app.js          # Game logic
 
-🖥️ Setup Instructions
-
-Clone the repository:
-
-git clone https://github.com/yourusername/tic-tac-toe.git
-
-Navigate to the project folder:
-
-cd tic-tac-toe
-
 Open index.html in a browser and enjoy the game!
